@@ -1,0 +1,14 @@
+name: ai_engineer_roadmap
+channels:
+  - defaults
+  - conda-forge # Often useful for additional packages not in defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip
+  # We'll add more later as needed for specific phases
